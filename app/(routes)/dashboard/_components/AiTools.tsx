@@ -7,7 +7,7 @@ const aiToolsList = [
     desc: "Ask Career Questions",
     icon: "/chatbot.png",
     button: "Ask Now",
-    path: "/ai-career-chat",
+    path: "/ai-tools/ai-chat",
   },
   {
     name: "AI Resume Analyzer",
